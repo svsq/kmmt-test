@@ -319,8 +319,8 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 3F5405AE263717AD000AEA16 /* Build configuration list for PBXNativeTarget "KMMTApp" */;
 			buildPhases = (
-				3F5405C5263719D8000AEA16 /* ShellScript */,
 				A6A0311B0F713FADEE15328E /* [CP] Check Pods Manifest.lock */,
+				3F5405C5263719D8000AEA16 /* ShellScript */,
 				3F540580263717AB000AEA16 /* Sources */,
 				3F540581263717AB000AEA16 /* Frameworks */,
 				3F540582263717AB000AEA16 /* Resources */,
@@ -771,7 +771,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "com.jittyandiyan.mobile.KMMT-App.ios";
+				PRODUCT_BUNDLE_IDENTIFIER = "tk.svsq.mobile.KMMT-App.ios";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -794,7 +794,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "com.jittyandiyan.mobile.KMMT-App.ios";
+				PRODUCT_BUNDLE_IDENTIFIER = "tk.svsq.mobile.KMMT-App.ios";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -815,7 +815,7 @@
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "com.jittyandiyan.mobile.KMMT-AppTests";
+				PRODUCT_BUNDLE_IDENTIFIER = "tk.svsq.mobile.KMMT-AppTests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -837,7 +837,7 @@
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "com.jittyandiyan.mobile.KMMT-AppTests";
+				PRODUCT_BUNDLE_IDENTIFIER = "tk.svsq.mobile.KMMT-AppTests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -857,7 +857,7 @@
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "com.jittyandiyan.mobile.KMMT-AppUITests";
+				PRODUCT_BUNDLE_IDENTIFIER = "tk.svsq.mobile.KMMT-AppUITests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -877,7 +877,7 @@
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "com.jittyandiyan.mobile.KMMT-AppUITests";
+				PRODUCT_BUNDLE_IDENTIFIER = "tk.svsq.mobile.KMMT-AppUITests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
